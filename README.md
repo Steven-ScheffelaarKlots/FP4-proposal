@@ -18,21 +18,17 @@ This will allow users to more expressively control the RSound library.
 The only things we plan to use that isn't code we've written ourselves is the GUI Toolkit and RSound. 
 
 ### Deliverable and Demonstration
-The final version of our project will, ideally, have an interface for creating various types of sound waves at selected
-frequencies. These could be sine, sawtooth, square, or pulse waves. The frequencies will have reasonable upper and lower limits
-in order to protect the user's audio hardware and their ears. If we have time, we would like to add the layering of multiple
-sounds and differnet values. Theoretically, these layers could be used to synthesize any sound. 
+Explain exactly what you'll have at the end. What will it be able to do at the live demo?
 
-We will also create a way for the frequencies to be set by mapping keyboard inputs to particular values. This will allow a user
-to use their computer's keyboard as a playable instrument. 
+What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
 
-We will show all of the working freatures in our final demonstration. 
+Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
+
+Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
 
 ### Evaluation of Results
-As the main purpose of this assignment is to make RSound easier to use, (though will a reduced functionality), we will conduct
-brief usability tests. This will consist of asking friends, both with substantial experience with computers and without, to use
-our program and describe the experience. We may also give them a short list of simple tasks to complete. Also, we will have the
-program tested by a keyboard or piano player to see if they can actually get some music out of the program. 
+How will you know if you are successful? 
+If you include some kind of _quantitative analysis,_ that would be fantastic.
 
 ## Work Plan and Schedule
 Explain how you will go from proposal to finished product. Write your general plan here. 
@@ -60,11 +56,14 @@ be echoing whatever key is pressed in the interpreter, again, to make sure that 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-### Susan Scheme
+### David Lordan
 will write the....
 
-### Leonard Lambda
+### Kevin Ornellas
 will work on...
+
+### Steven Scheffelaar Klots
+Work on a portion of the UI for the first milestone and then shift focus to working on implementing and interfacing with the Rsound portion of the project.
 
 ## Proposal Presentation Link
 insert your google presentation public link here, so with one click it will open up in the browser and you can present.
